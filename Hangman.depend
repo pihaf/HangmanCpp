@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1653239619 source:c:\users\dell\desktop\things\code\hangman\draw.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<conio.h>
+	<time.h>
+	<iomanip>
+	<string>
+	<vector>
+	"draw.h"
+
+1653623639 source:c:\users\dell\desktop\things\code\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<MMsystem.h>
+	"draw.h"
+	"PvCPlayerGuess.h"
+	"PvCComputerGuess.h"
+	"PvP.h"
+	"calculate time.h"
+	"SettingsScreen.h"
+	"scoreboardScreen.h"
+	"score.h"
+	"fun mode.h"
+
+1652980908 c:\users\dell\desktop\things\code\hangman\draw.h
+	<iostream>
+
+1653623044 source:c:\users\dell\desktop\things\code\hangman\pvcplayerguess.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<conio.h>
+	<cmath>
+	<time.h>
+	<string>
+	"draw.h"
+	"PvCPlayerGuess.h"
+	"scoreboardScreen.h"
+	"score.h"
+
+1653622792 c:\users\dell\desktop\things\code\hangman\pvcplayerguess.h
+	<iostream>
+
+1652982612 source:c:\users\dell\desktop\things\code\hangman\calculate time.cpp
+	<time.h>
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1653623728 source:c:\users\dell\desktop\things\code\hangman\settingsscreen.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SettingsScreen.h"
+
+1653623613 c:\users\dell\desktop\things\code\hangman\settingsscreen.h
+	<iostream>
+
+1652691128 c:\users\dell\desktop\things\code\hangman\calculate time.h
+	<iostream>
+
+1652890339 source:c:\users\dell\desktop\things\code\hangman\guesser.cpp
+	<string>
+	<cstdlib>
+	<map>
+	"guesser.h"
+	"util.h"
+
+1652891990 c:\users\dell\desktop\things\code\hangman\guesser.h
+	<string>
+	<set>
+
+1652891990 c:\users\dell\desktop\things\code\hangman\util.h
+	<vector>
+	<string>
+
+1652891927 source:c:\users\dell\desktop\things\code\hangman\util.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<stdexcept>
+
+1653623061 source:c:\users\dell\desktop\things\code\hangman\pvccomputerguess.cpp
+	<iostream>
+	<set>
+	<cctype>
+	<algorithm>
+	<stdexcept>
+	<thread>
+	<chrono>
+	<conio.h>
+	"util.h"
+	"guesser.h"
+	"draw.h"
+	"PvCComputerGuess.h"
+
+1653622792 c:\users\dell\desktop\things\code\hangman\pvccomputerguess.h
+	<iostream>
+	<set>
+
+1653623052 source:c:\users\dell\desktop\things\code\hangman\pvp.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<conio.h>
+	<cmath>
+	<time.h>
+	<string>
+	"draw.h"
+	"PvP.h"
+
+1653622792 c:\users\dell\desktop\things\code\hangman\pvp.h
+	<iostream>
+
+1652984505 source:c:\users\dell\desktop\things\code\hangman\score.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<string>
+	"score.h"
+
+1652979778 c:\users\dell\desktop\things\code\hangman\score.h
+	<iostream>
+	<string>
+
+1652985156 c:\users\dell\desktop\things\code\hangman\scoreboardscreen.h
+	<iostream>
+	<vector>
+
+1653582664 source:c:\users\dell\desktop\things\code\hangman\scoreboardscreen.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<vector>
+	<algorithm>
+	"scoreboardScreen.h"
+
+1653622894 c:\users\dell\desktop\things\code\hangman\fun mode.h
+	<iostream>
+
+1653626564 source:c:\users\dell\desktop\things\code\hangman\fun mode.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<MMsystem.h>
+	"PvCPlayerGuess.h"
+	"draw.h"
+	"fun mode.h"
+
